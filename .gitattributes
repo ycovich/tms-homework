@@ -1,0 +1,3 @@
+# Скрипты запуска: .sh всегда с LF (иначе bash в WSL на них спотыкается), .ps1 — как принято в Windows
+*.sh text eol=lf
+*.ps1 text eol=crlf
