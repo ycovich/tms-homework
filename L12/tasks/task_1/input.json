@@ -1,0 +1,5 @@
+[
+  {"id": 1, "name": "Чайник", "price": 2990, "in_stock": true},
+  {"id": 2, "name": "Кастрюля, 3 л", "price": 1590, "in_stock": false},
+  {"id": 3, "name": "Ложка", "price": 120, "in_stock": true}
+]
